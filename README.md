@@ -1,1 +1,1 @@
-# Crypto-Price-Fetcher
+# Instant-Crypto-Price-Fetcher
